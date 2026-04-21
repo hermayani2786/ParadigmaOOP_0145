@@ -14,4 +14,6 @@ public :
     }
 }; //batas class
 
-int main()
+int main(){
+    Mahasiswa mhs;//object
+}
